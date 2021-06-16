@@ -22,7 +22,7 @@ class GQL {
   }
 }
 
-const baseUrl = 'https://raw.githubusercontent.com/chatsen/resources/master'; //'https://cdn.jsdelivr.net/gh/chatsen/resources/assets';
+const baseUrl = 'https://raw.githubusercontent.com/chatsen/resources/master/assets'; //'https://cdn.jsdelivr.net/gh/chatsen/resources/assets';
 
 var badges = <Badge>[
   Badge(

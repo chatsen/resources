@@ -35,9 +35,15 @@
       "name": "chatsen",
       "badges": [
         {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.912060",
+          "updatedAt": "2021-06-17T00:09:37.912060",
+          "expiresAt": null
+        },
+        {
           "badgeName": "patreon_tier3",
-          "acquiredAt": "2021-06-16T19:03:53.384764",
-          "updatedAt": "2021-06-16T19:03:53.384764",
+          "acquiredAt": "2021-06-17T00:09:37.912060",
+          "updatedAt": "2021-06-17T00:09:37.912060",
           "expiresAt": null
         }
       ]
@@ -47,9 +53,459 @@
       "name": "chatsenapp",
       "badges": [
         {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.912060",
+          "updatedAt": "2021-06-17T00:09:37.912060",
+          "expiresAt": null
+        },
+        {
           "badgeName": "patreon_tier3",
-          "acquiredAt": "2021-06-16T19:03:53.384764",
-          "updatedAt": "2021-06-16T19:03:53.384764",
+          "acquiredAt": "2021-06-17T00:09:37.912060",
+          "updatedAt": "2021-06-17T00:09:37.912060",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "49739598",
+      "name": "thedangerousbros",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.912060",
+          "updatedAt": "2021-06-17T00:09:37.912060",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "57459239",
+      "name": "snowstormcs",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "155226913",
+      "name": "symphonystars",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "179016826",
+      "name": "canelex_",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "271640656",
+      "name": "hawichii",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "29196772",
+      "name": "jamz_96",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "151119581",
+      "name": "sparler",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "219784780",
+      "name": "saan1ty",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "136778668",
+      "name": "feelsdankman_trumpet",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "171427962",
+      "name": "bradleyym",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "105791537",
+      "name": "spaghettisauce",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "445640182",
+      "name": "og_knocc_out",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "598013908",
+      "name": "killertofus",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "194267009",
+      "name": "ali2465",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "29931084",
+      "name": "johhmar",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "104645456",
+      "name": "tastiic",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "480792226",
+      "name": "justusshg",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "182438081",
+      "name": "shiftyvo",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "653736667",
+      "name": "smthy__",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "103964833",
+      "name": "cycionetm",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "104613084",
+      "name": "i_love_all_the_trihards",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "235611601",
+      "name": "21mtd",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "72052104",
+      "name": "backous",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "157054245",
+      "name": "ayyybubu",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "433969340",
+      "name": "uruhayeno",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "688717128",
+      "name": "yosefsa8",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "271992763",
+      "name": "tripl__",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "62789824",
+      "name": "lexible",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "139425133",
+      "name": "paruna",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "92160119",
+      "name": "wadm8",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "476448932",
+      "name": "havroy_",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "248613314",
+      "name": "scran",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "44710465",
+      "name": "marcfryd",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "170015429",
+      "name": "blackwolf9009",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "517869424",
+      "name": "heytherejudee",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "80805824",
+      "name": "turtoise",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
+          "expiresAt": null
+        }
+      ]
+    },
+    {
+      "id": "103228025",
+      "name": "andban92",
+      "badges": [
+        {
+          "badgeName": "closed_alpha",
+          "acquiredAt": "2021-06-17T00:09:37.913059",
+          "updatedAt": "2021-06-17T00:09:37.913059",
           "expiresAt": null
         }
       ]

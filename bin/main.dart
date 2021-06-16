@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:chatsen_resources/badge.dart';
+import 'package:chatsen_resources/data.dart';
 import 'package:chatsen_resources/user.dart';
 import 'package:http/http.dart' as http;
 
@@ -55,8 +56,48 @@ var badges = <Badge>[
 ];
 
 var users = <User>[
-  User(name: 'chatsen', id: "0", badges: [UserBadge(badgeName: 'patreon_tier3', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
-  User(name: 'chatsenapp', id: "0", badges: [UserBadge(badgeName: 'patreon_tier3', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  // Developers
+  User(name: 'chatsen', id: '693065895', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now()), UserBadge(badgeName: 'patreon_tier3', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'chatsenapp', id: '693066124', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now()), UserBadge(badgeName: 'patreon_tier3', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+
+  // Early users
+  User(name: 'thedangerousbros', id: '49739598', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'snowstormcs', id: '57459239', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'symphonystars', id: '155226913', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'canelex_', id: '179016826', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'hawichii', id: '271640656', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'jamz_96', id: '29196772', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'sparler', id: '151119581', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'saan1ty', id: '219784780', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'feelsdankman_trumpet', id: '136778668', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'bradleyym', id: '171427962', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'spaghettisauce', id: '105791537', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'og_knocc_out', id: '445640182', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'killertofus', id: '598013908', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'ali2465', id: '194267009', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'johhmar', id: '29931084', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'tastiic', id: '104645456', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'justusshg', id: '480792226', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'shiftyvo', id: '182438081', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'smthy__', id: '653736667', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'cycionetm', id: '103964833', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'i_love_all_the_trihards', id: '104613084', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: '21mtd', id: '235611601', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'backous', id: '72052104', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'ayyybubu', id: '157054245', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'uruhayeno', id: '433969340', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'yosefsa8', id: '688717128', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'tripl__', id: '271992763', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'lexible', id: '62789824', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'paruna', id: '139425133', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'wadm8', id: '92160119', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'havroy_', id: '476448932', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'scran', id: '248613314', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'marcfryd', id: '44710465', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'blackwolf9009', id: '170015429', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'heytherejudee', id: '517869424', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'turtoise', id: '80805824', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
+  User(name: 'andban92', id: '103228025', badges: [UserBadge(badgeName: 'closed_alpha', acquiredAt: DateTime.now(), updatedAt: DateTime.now())]),
 ];
 
 // // Future<List<Badge>> getBadges() async {
@@ -81,7 +122,7 @@ var users = <User>[
 // // }
 
 void main(List<String> arguments) async {
-  for (var user in users) {
+  for (var user in users.where((user) => user.id == '0')) {
     var data = await GQL.request('''
       query {
         user(login: "${user.name.toLowerCase()}") {
@@ -91,10 +132,15 @@ void main(List<String> arguments) async {
       }
     ''');
     user.id = data['data']['user']['id'];
+    print('User(name: \'${user.name.toLowerCase()}\', id: \'${user.id}\', badges: []),');
   }
 
-  await File('assets/data.json').writeAsString(JsonEncoder.withIndent('  ').convert({
-    "badges": badges,
-    "users": users,
-  }));
+  await File('assets/data.json').writeAsString(
+    JsonEncoder.withIndent('  ').convert(
+      Data(
+        users: users,
+        badges: badges,
+      ),
+    ),
+  );
 }

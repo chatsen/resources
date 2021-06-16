@@ -4,29 +4,29 @@
       "name": "closed_alpha",
       "title": "Chatsen Closed Alpha",
       "description": "Chatsen Badge",
-      "image": "url",
-      "color": "FFFFFF"
+      "image": "https://cdn.jsdelivr.net/gh/chatsen/resources/assets/donator.gif",
+      "color": "777777"
     },
     {
       "name": "patreon_tier1",
       "title": "Chatsen Patreon Tier 1",
       "description": "Chatsen Supporter Badge",
-      "image": "url",
-      "color": "FFFFFF"
+      "image": "https://cdn.jsdelivr.net/gh/chatsen/resources/assets/tier1.png",
+      "color": "777777"
     },
     {
       "name": "patreon_tier2",
       "title": "Chatsen Patreon Tier 2",
       "description": "Chatsen Supporter Badge",
-      "image": "url",
-      "color": "FFFFFF"
+      "image": "https://cdn.jsdelivr.net/gh/chatsen/resources/assets/tier2.png",
+      "color": "777777"
     },
     {
       "name": "patreon_tier3",
       "title": "Chatsen Patreon Tier 3",
       "description": "Chatsen Supporter Badge",
-      "image": "url",
-      "color": "FFFFFF"
+      "image": "https://cdn.jsdelivr.net/gh/chatsen/resources/assets/tier3a.gif",
+      "color": "777777"
     }
   ],
   "users": [
@@ -36,8 +36,8 @@
       "badges": [
         {
           "badgeName": "patreon_tier3",
-          "acquiredAt": "2021-06-16T18:59:48.318034",
-          "updatedAt": "2021-06-16T18:59:48.318034",
+          "acquiredAt": "2021-06-16T19:03:53.384764",
+          "updatedAt": "2021-06-16T19:03:53.384764",
           "expiresAt": null
         }
       ]
@@ -48,8 +48,8 @@
       "badges": [
         {
           "badgeName": "patreon_tier3",
-          "acquiredAt": "2021-06-16T18:59:48.319029",
-          "updatedAt": "2021-06-16T18:59:48.319029",
+          "acquiredAt": "2021-06-16T19:03:53.384764",
+          "updatedAt": "2021-06-16T19:03:53.384764",
           "expiresAt": null
         }
       ]

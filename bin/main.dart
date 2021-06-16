@@ -21,34 +21,36 @@ class GQL {
   }
 }
 
+const baseUrl = 'https://cdn.jsdelivr.net/gh/chatsen/resources/assets';
+
 var badges = <Badge>[
   Badge(
     name: 'closed_alpha',
     title: 'Chatsen Closed Alpha',
     description: 'Chatsen Badge',
-    image: 'url',
-    color: 'FFFFFF',
+    image: '$baseUrl/donator.gif',
+    color: '777777',
   ),
   Badge(
     name: 'patreon_tier1',
     title: 'Chatsen Patreon Tier 1',
     description: 'Chatsen Supporter Badge',
-    image: 'url',
-    color: 'FFFFFF',
+    image: '$baseUrl/tier1.png',
+    color: '777777',
   ),
   Badge(
     name: 'patreon_tier2',
     title: 'Chatsen Patreon Tier 2',
     description: 'Chatsen Supporter Badge',
-    image: 'url',
-    color: 'FFFFFF',
+    image: '$baseUrl/tier2.png',
+    color: '777777',
   ),
   Badge(
     name: 'patreon_tier3',
     title: 'Chatsen Patreon Tier 3',
     description: 'Chatsen Supporter Badge',
-    image: 'url',
-    color: 'FFFFFF',
+    image: '$baseUrl/tier3a.gif',
+    color: '777777',
   ),
 ];
 

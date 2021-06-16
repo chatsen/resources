@@ -4,7 +4,6 @@ part 'badge.g.dart';
 
 @JsonSerializable()
 class Badge {
-  final int id;
   final String name;
   final String title;
   final String description;
@@ -12,7 +11,6 @@ class Badge {
   final String color;
 
   Badge({
-    required this.id,
     required this.name,
     required this.title,
     required this.description,

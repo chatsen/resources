@@ -22,9 +22,9 @@ class UserBadge {
 
 @JsonSerializable()
 class User {
-  final String id;
-  final String name;
-  final List<UserBadge> badges;
+  String id;
+  String name;
+  List<UserBadge> badges;
 
   User({
     required this.id,

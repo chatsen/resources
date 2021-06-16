@@ -8,7 +8,6 @@ part of 'badge.dart';
 
 Badge _$BadgeFromJson(Map<String, dynamic> json) {
   return Badge(
-    id: json['id'] as int,
     name: json['name'] as String,
     title: json['title'] as String,
     description: json['description'] as String,
@@ -18,7 +17,6 @@ Badge _$BadgeFromJson(Map<String, dynamic> json) {
 }
 
 Map<String, dynamic> _$BadgeToJson(Badge instance) => <String, dynamic>{
-      'id': instance.id,
       'name': instance.name,
       'title': instance.title,
       'description': instance.description,

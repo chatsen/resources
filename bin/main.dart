@@ -22,14 +22,14 @@ class GQL {
   }
 }
 
-const baseUrl = 'https://cdn.jsdelivr.net/gh/chatsen/resources/assets';
+const baseUrl = 'https://raw.githubusercontent.com/chatsen/resources/master'; //'https://cdn.jsdelivr.net/gh/chatsen/resources/assets';
 
 var badges = <Badge>[
   Badge(
     name: 'closed_alpha',
     title: 'Chatsen Closed Alpha',
     description: 'Chatsen Badge',
-    image: '$baseUrl/donator.gif',
+    image: '$baseUrl/old_advice.png',
     color: '777777',
   ),
   Badge(

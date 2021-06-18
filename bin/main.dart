@@ -80,6 +80,9 @@ var users = <User>[
     UserBadge(badgeName: 'developer', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier2', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier3', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'yamadaaoi', id: '100221397', badges: [
     UserBadge(badgeName: 'developer', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),

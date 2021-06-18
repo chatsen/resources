@@ -198,7 +198,13 @@ var users = <User>[
   User(name: 'andban92', id: '103228025', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
-  User(name: 'Smuuuuuuuuurf', id: '131006574', badges: [
+  User(name: 'boraflame', id: '142585756', badges: [
+    UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
+  User(name: 'smuuuuuuuuurf', id: '131006574', badges: [
+    UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
+  User(name: 'solidwilson', id: '28219837', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
 

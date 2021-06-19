@@ -22,6 +22,13 @@
       "color": "777777"
     },
     {
+      "name": "performance_artist",
+      "title": "Chatsen Artist",
+      "description": "Contributed assets to Chatsen",
+      "image": "https://raw.githubusercontent.com/chatsen/resources/master/assets/CrayonTime.gif",
+      "color": "777777"
+    },
+    {
       "name": "patreon_tier1",
       "title": "Chatsen Patreon Tier 1",
       "description": "Chatsen Supporter Badge",
@@ -50,20 +57,20 @@
       "badges": [
         {
           "badgeName": "developer",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.497085",
+          "updatedAt": "2021-06-19T02:00:55.497085",
           "expiresAt": null
         },
         {
           "badgeName": "early_supporters",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.497085",
+          "updatedAt": "2021-06-19T02:00:55.497085",
           "expiresAt": null
         },
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.497085",
+          "updatedAt": "2021-06-19T02:00:55.497085",
           "expiresAt": null
         }
       ]
@@ -74,38 +81,38 @@
       "badges": [
         {
           "badgeName": "developer",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.497085",
+          "updatedAt": "2021-06-19T02:00:55.497085",
           "expiresAt": null
         },
         {
           "badgeName": "early_supporters",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.497085",
+          "updatedAt": "2021-06-19T02:00:55.497085",
           "expiresAt": null
         },
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.497085",
+          "updatedAt": "2021-06-19T02:00:55.497085",
           "expiresAt": null
         },
         {
           "badgeName": "patreon_tier1",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.497085",
+          "updatedAt": "2021-06-19T02:00:55.497085",
           "expiresAt": null
         },
         {
           "badgeName": "patreon_tier2",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.497085",
+          "updatedAt": "2021-06-19T02:00:55.497085",
           "expiresAt": null
         },
         {
           "badgeName": "patreon_tier3",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.497085",
+          "updatedAt": "2021-06-19T02:00:55.497085",
           "expiresAt": null
         }
       ]
@@ -116,20 +123,20 @@
       "badges": [
         {
           "badgeName": "developer",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         },
         {
           "badgeName": "early_supporters",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         },
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -140,20 +147,20 @@
       "badges": [
         {
           "badgeName": "developer",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         },
         {
           "badgeName": "early_supporters",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         },
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -164,8 +171,14 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
+          "expiresAt": null
+        },
+        {
+          "badgeName": "performance_artist",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -176,8 +189,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -188,8 +201,14 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
+          "expiresAt": null
+        },
+        {
+          "badgeName": "performance_artist",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -200,8 +219,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -212,8 +231,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -224,8 +243,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -236,8 +255,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -248,8 +267,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -260,8 +279,14 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
+          "expiresAt": null
+        },
+        {
+          "badgeName": "performance_artist",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -272,8 +297,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -284,8 +309,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -296,8 +321,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -308,8 +333,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -320,8 +345,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -332,8 +357,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -344,8 +369,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -356,8 +381,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -368,8 +393,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -380,8 +405,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -392,8 +417,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -404,8 +429,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -416,8 +441,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -428,8 +453,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -440,8 +465,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -452,8 +477,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -464,8 +489,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -476,8 +501,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -488,8 +513,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -500,8 +525,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -512,8 +537,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -524,8 +549,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -536,8 +561,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -548,8 +573,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -560,8 +585,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -572,8 +597,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -584,8 +609,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -596,8 +621,8 @@
       "badges": [
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -608,14 +633,20 @@
       "badges": [
         {
           "badgeName": "early_supporters",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         },
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.512572",
-          "updatedAt": "2021-06-19T01:55:17.512572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
+          "expiresAt": null
+        },
+        {
+          "badgeName": "performance_artist",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -626,14 +657,14 @@
       "badges": [
         {
           "badgeName": "early_supporters",
-          "acquiredAt": "2021-06-19T01:55:17.513572",
-          "updatedAt": "2021-06-19T01:55:17.513572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         },
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.513572",
-          "updatedAt": "2021-06-19T01:55:17.513572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]
@@ -644,14 +675,14 @@
       "badges": [
         {
           "badgeName": "early_supporters",
-          "acquiredAt": "2021-06-19T01:55:17.513572",
-          "updatedAt": "2021-06-19T01:55:17.513572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         },
         {
           "badgeName": "early_bird",
-          "acquiredAt": "2021-06-19T01:55:17.513572",
-          "updatedAt": "2021-06-19T01:55:17.513572",
+          "acquiredAt": "2021-06-19T02:00:55.498087",
+          "updatedAt": "2021-06-19T02:00:55.498087",
           "expiresAt": null
         }
       ]

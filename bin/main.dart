@@ -47,6 +47,13 @@ var badges = <Badge>[
     color: '777777',
   ),
   Badge(
+    name: 'performance_artist',
+    title: 'Chatsen Artist',
+    description: 'Contributed assets to Chatsen',
+    image: '$baseUrl/CrayonTime.gif',
+    color: '777777',
+  ),
+  Badge(
     name: 'patreon_tier1',
     title: 'Chatsen Patreon Tier 1',
     description: 'Chatsen Supporter Badge',
@@ -98,12 +105,14 @@ var users = <User>[
   // Early users
   User(name: 'thedangerousbros', id: '49739598', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'performance_artist', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'snowstormcs', id: '57459239', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'symphonystars', id: '155226913', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'performance_artist', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'canelex_', id: '179016826', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
@@ -122,6 +131,7 @@ var users = <User>[
   ]),
   User(name: 'feelsdankman_trumpet', id: '136778668', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'performance_artist', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'bradleyym', id: '171427962', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
@@ -212,6 +222,7 @@ var users = <User>[
   User(name: 'ayyybubu', id: '157054245', badges: [
     UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'performance_artist', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'backous', id: '72052104', badges: [
     UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),

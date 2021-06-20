@@ -175,9 +175,7 @@ var users = <User>[
   User(name: 'uruhayeno', id: '433969340', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
-  User(name: 'yosefsa8', id: '688717128', badges: [
-    UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-  ]),
+
   User(name: 'tripl__', id: '271992763', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
@@ -245,6 +243,10 @@ var users = <User>[
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'hotbear1110', id: '135186096', badges: [
+    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
+  User(name: 'yosefsa8', id: '688717128', badges: [
     UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),

@@ -33,7 +33,7 @@ var badges = <Badge>[
     color: '777777',
   ),
   Badge(
-    name: 'early_supporters',
+    name: 'early_supporter',
     title: 'Chatsen Early Supporter',
     description: 'Legends that supported the project during it\'s early development',
     image: '$baseUrl/tier3.png',
@@ -80,12 +80,12 @@ var users = <User>[
   // Developers
   User(name: 'chatsen', id: '693065895', badges: [
     UserBadge(badgeName: 'developer', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-    UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'chatsenapp', id: '693066124', badges: [
     UserBadge(badgeName: 'developer', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-    UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'patreon_tier2', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
@@ -93,12 +93,12 @@ var users = <User>[
   ]),
   User(name: 'yamadaaoi', id: '100221397', badges: [
     UserBadge(badgeName: 'developer', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-    UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'williambulin', id: '695874918', badges: [
     UserBadge(badgeName: 'developer', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-    UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
 
@@ -226,19 +226,26 @@ var users = <User>[
   User(name: 'mamdoh123', id: '32404474', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
+  // User(name: 'gac', id: '0', badges: [
+  //   UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  // ]),
 
   // Alpha supporters
   User(name: 'ayyybubu', id: '157054245', badges: [
-    UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'performance_artist', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'backous', id: '72052104', badges: [
-    UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'lexible', id: '62789824', badges: [
-    UserBadge(badgeName: 'early_supporters', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
+  User(name: 'hotbear1110', id: '135186096', badges: [
+    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
 ];

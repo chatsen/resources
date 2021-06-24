@@ -215,18 +215,18 @@ var users = <User>[
   User(name: 'solidwilson', id: '28219837', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
-  User(name: 'solidwilson', id: '28219837', badges: [
-    UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-  ]),
   User(name: 'stephanbruh', id: '108112395', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'mamdoh123', id: '32404474', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
-  // User(name: 'gac', id: '0', badges: [
-  //   UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-  // ]),
+  User(name: 'mastertichus', id: '482897959', badges: [
+    UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
+  User(name: 'ecko_biggestfan', id: '246437104', badges: [
+    UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
 
   // Alpha supporters
   User(name: 'ayyybubu', id: '157054245', badges: [

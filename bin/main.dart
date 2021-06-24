@@ -85,7 +85,7 @@ var badges = <Badge>[
     name: 'test_animated',
     title: 'Chatsen Animated Badge Test',
     description: '?',
-    image: '$baseUrl/tier3a.png',
+    image: '$baseUrl/tier3a.gif',
     color: '777777',
   ),
 ];

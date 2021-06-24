@@ -74,6 +74,20 @@ var badges = <Badge>[
     image: '$baseUrl/tier3.png',
     color: '777777',
   ),
+  Badge(
+    name: 'patreon_tier4',
+    title: 'Chatsen Patreon Tier 4',
+    description: 'Chatsen Supporter Badge',
+    image: '$baseUrl/tier4.png',
+    color: '777777',
+  ),
+  Badge(
+    name: 'test_animated',
+    title: 'Chatsen Animated Badge Test',
+    description: '?',
+    image: '$baseUrl/tier3a.png',
+    color: '777777',
+  ),
 ];
 
 var users = <User>[
@@ -90,6 +104,8 @@ var users = <User>[
     UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'patreon_tier2', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'patreon_tier3', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier4', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'test_animated', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'yamadaaoi', id: '100221397', badges: [
     UserBadge(badgeName: 'developer', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
@@ -130,6 +146,7 @@ var users = <User>[
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'feelsdankman_trumpet', id: '136778668', badges: [
+    UserBadge(badgeName: 'test_animated', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'performance_artist', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
@@ -175,7 +192,6 @@ var users = <User>[
   User(name: 'uruhayeno', id: '433969340', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
-
   User(name: 'tripl__', id: '271992763', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),

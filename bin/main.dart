@@ -36,7 +36,7 @@ var badges = <Badge>[
     name: 'early_supporter',
     title: 'Chatsen Early Supporter',
     description: 'Legends that supported the project during it\'s early development',
-    image: '$baseUrl/tier3.png',
+    image: '$baseUrl/early_supporter.png',
     color: '777777',
   ),
   Badge(
@@ -231,24 +231,28 @@ var users = <User>[
   // Alpha supporters
   User(name: 'ayyybubu', id: '157054245', badges: [
     UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'performance_artist', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'backous', id: '72052104', badges: [
     UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'lexible', id: '62789824', badges: [
     UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'hotbear1110', id: '135186096', badges: [
-    UserBadge(badgeName: 'patreon_tier3', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier3', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'yosefsa8', id: '688717128', badges: [
     UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
 ];

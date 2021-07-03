@@ -254,6 +254,9 @@ var users = <User>[
   User(name: 'sneeeze_', id: '124070285', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
+  User(name: 'college_boi', id: '216958596', badges: [
+    UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
 
   // Alpha supporters
   User(name: 'ayyybubu', id: '157054245', badges: [

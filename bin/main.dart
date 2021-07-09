@@ -61,6 +61,13 @@ var badges = <Badge>[
     color: '777777',
   ),
   Badge(
+    name: 'patreon_tier1s',
+    title: 'Chatsen Early Patreon Tier 1',
+    description: 'Chatsen Badge for Early Supporters',
+    image: '$baseUrl/tier1s.png',
+    color: '777777',
+  ),
+  Badge(
     name: 'patreon_tier2',
     title: 'Chatsen Patreon Tier 2',
     description: 'Chatsen Supporter Badge',
@@ -68,10 +75,24 @@ var badges = <Badge>[
     color: '777777',
   ),
   Badge(
+    name: 'patreon_tier2s',
+    title: 'Chatsen Early Patreon Tier 2',
+    description: 'Chatsen Badge for Early Supporters',
+    image: '$baseUrl/tier2s.png',
+    color: '777777',
+  ),
+  Badge(
     name: 'patreon_tier3',
     title: 'Chatsen Patreon Tier 3',
     description: 'Chatsen Supporter Badge',
     image: '$baseUrl/tier3.png',
+    color: '777777',
+  ),
+  Badge(
+    name: 'patreon_tier3s',
+    title: 'Chatsen Early Patreon Tier 3',
+    description: 'Chatsen Badge for Early Supporters',
+    image: '$baseUrl/tier3s.png',
     color: '777777',
   ),
   Badge(
@@ -260,30 +281,30 @@ var users = <User>[
 
   // Alpha supporters
   User(name: 'ayyybubu', id: '157054245', badges: [
-    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    // UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'performance_artist', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-    UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1s', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'backous', id: '72052104', badges: [
-    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    // UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-    UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1s', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'lexible', id: '62789824', badges: [
-    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    // UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-    UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1s', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'hotbear1110', id: '135186096', badges: [
-    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    // UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-    UserBadge(badgeName: 'patreon_tier3', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier3s', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'yosefsa8', id: '688717128', badges: [
-    UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    // UserBadge(badgeName: 'early_supporter', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-    UserBadge(badgeName: 'patreon_tier1', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1s', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'dagaugl', id: '133619135', badges: [
     UserBadge(badgeName: 'early_bird', acquiredAt: DateTime.now(), updatedAt: DateTime.now()),

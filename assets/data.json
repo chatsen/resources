@@ -91,13 +91,22 @@
       "name": "chatsen",
       "badges": [
         {
-          "badgeName": "developer"
+          "badgeName": "developer",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "early_supporter"
+          "badgeName": "early_supporter",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -106,40 +115,76 @@
       "name": "chatsenapp",
       "badges": [
         {
-          "badgeName": "developer"
+          "badgeName": "developer",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "early_supporter"
+          "badgeName": "early_supporter",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "performance_artist"
+          "badgeName": "performance_artist",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1s"
+          "badgeName": "patreon_tier1s",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier2"
+          "badgeName": "patreon_tier2",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier2s"
+          "badgeName": "patreon_tier2s",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier3"
+          "badgeName": "patreon_tier3",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier3s"
+          "badgeName": "patreon_tier3s",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier4"
+          "badgeName": "patreon_tier4",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "test_animated"
+          "badgeName": "test_animated",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -148,7 +193,10 @@
       "name": "yamadaaoi",
       "badges": [
         {
-          "badgeName": "developer"
+          "badgeName": "developer",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -157,13 +205,22 @@
       "name": "williambulin",
       "badges": [
         {
-          "badgeName": "developer"
+          "badgeName": "developer",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "early_supporter"
+          "badgeName": "early_supporter",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -172,10 +229,16 @@
       "name": "thedangerousbros",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "performance_artist"
+          "badgeName": "performance_artist",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -184,7 +247,10 @@
       "name": "snowstormcs",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -193,7 +259,10 @@
       "name": "canelex_",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -202,7 +271,10 @@
       "name": "hawichii",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -211,7 +283,10 @@
       "name": "jamz_96",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -220,7 +295,10 @@
       "name": "sparler",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -229,7 +307,10 @@
       "name": "saan1ty",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -238,10 +319,16 @@
       "name": "feelsdankman_trumpet",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "performance_artist"
+          "badgeName": "performance_artist",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -250,7 +337,10 @@
       "name": "bradleyym",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -259,7 +349,10 @@
       "name": "spaghettisauce",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -268,7 +361,10 @@
       "name": "og_knocc_out",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -277,7 +373,10 @@
       "name": "killertofus",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -286,7 +385,10 @@
       "name": "ali2465",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -295,7 +397,10 @@
       "name": "johhmar",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -304,7 +409,10 @@
       "name": "tastiic",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -313,7 +421,10 @@
       "name": "justusshg",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -322,7 +433,10 @@
       "name": "shiftyvo",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -331,7 +445,10 @@
       "name": "smthy__",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -340,7 +457,10 @@
       "name": "cycionetm",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -349,7 +469,10 @@
       "name": "i_love_all_the_trihards",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -358,7 +481,10 @@
       "name": "21mtd",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -367,7 +493,10 @@
       "name": "uruhayeno",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -376,7 +505,10 @@
       "name": "tripl__",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -385,7 +517,10 @@
       "name": "paruna",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -394,7 +529,10 @@
       "name": "wadm8",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -403,7 +541,10 @@
       "name": "havroy_",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -412,7 +553,10 @@
       "name": "scran",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -421,7 +565,10 @@
       "name": "marcfryd",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -430,7 +577,10 @@
       "name": "blackwolf9009",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -439,7 +589,10 @@
       "name": "heytherejudee",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -448,7 +601,10 @@
       "name": "turtoise",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -457,7 +613,10 @@
       "name": "andban92",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -466,7 +625,10 @@
       "name": "boraflame",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -475,7 +637,10 @@
       "name": "smuuuuuuuuurf",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -484,7 +649,10 @@
       "name": "solidwilson",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -493,7 +661,10 @@
       "name": "stephanbruh",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -502,7 +673,10 @@
       "name": "mamdoh123",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -511,7 +685,10 @@
       "name": "mastertichus",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -520,7 +697,10 @@
       "name": "ecko_biggestfan",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -529,7 +709,10 @@
       "name": "gryyyfin",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -538,7 +721,10 @@
       "name": "8supa",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -547,7 +733,10 @@
       "name": "sneeeze_",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -556,7 +745,10 @@
       "name": "college_boi",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -565,13 +757,22 @@
       "name": "ayyybubu",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "performance_artist"
+          "badgeName": "performance_artist",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1s"
+          "badgeName": "patreon_tier1s",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -580,10 +781,16 @@
       "name": "backous",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1s"
+          "badgeName": "patreon_tier1s",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -592,10 +799,16 @@
       "name": "lexible",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1s"
+          "badgeName": "patreon_tier1s",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -604,10 +817,16 @@
       "name": "hotbear1110",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier3s"
+          "badgeName": "patreon_tier3s",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -616,10 +835,16 @@
       "name": "yosefsa8",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1s"
+          "badgeName": "patreon_tier1s",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -628,10 +853,16 @@
       "name": "dagaugl",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -640,10 +871,16 @@
       "name": "herohyrule",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -652,13 +889,22 @@
       "name": "symphonystars",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "performance_artist"
+          "badgeName": "performance_artist",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -667,7 +913,10 @@
       "name": "nouryqt",
       "badges": [
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -676,7 +925,10 @@
       "name": "kian",
       "badges": [
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -685,10 +937,16 @@
       "name": "juansucks",
       "badges": [
         {
-          "badgeName": "early_bird"
+          "badgeName": "early_bird",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         },
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -697,7 +955,10 @@
       "name": "davekorbiger",
       "badges": [
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -706,7 +967,10 @@
       "name": "7wzyy",
       "badges": [
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -715,7 +979,10 @@
       "name": "katimoms",
       "badges": [
         {
-          "badgeName": "patreon_tier1"
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     },
@@ -724,7 +991,10 @@
       "name": "okck",
       "badges": [
         {
-          "badgeName": "patreon_tier3"
+          "badgeName": "patreon_tier3",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
     }

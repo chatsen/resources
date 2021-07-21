@@ -5,15 +5,15 @@ part 'user.g.dart';
 @JsonSerializable()
 class UserBadge {
   final String badgeName;
-  final DateTime acquiredAt;
-  final DateTime updatedAt;
-  final DateTime? expiresAt;
+  // final DateTime acquiredAt;
+  // final DateTime updatedAt;
+  // final DateTime? expiresAt;
 
   UserBadge({
     required this.badgeName,
-    required this.acquiredAt,
-    required this.updatedAt,
-    this.expiresAt,
+    // required this.acquiredAt,
+    // required this.updatedAt,
+    // this.expiresAt,
   });
 
   factory UserBadge.fromJson(Map<String, dynamic> json) => _$UserBadgeFromJson(json);

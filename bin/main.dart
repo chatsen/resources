@@ -185,6 +185,9 @@ var users = <User>[
   User(name: 'killertofus', id: '598013908', badges: [
     UserBadge(badgeName: 'early_bird'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
+  User(name: 'killeroftofus', id: '51664191', badges: [
+    UserBadge(badgeName: 'early_bird'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
   User(name: 'ali2465', id: '194267009', badges: [
     UserBadge(badgeName: 'early_bird'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
@@ -215,7 +218,7 @@ var users = <User>[
   User(name: 'uruhayeno', id: '433969340', badges: [
     UserBadge(badgeName: 'early_bird'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
-  User(name: 'tripl__', id: '271992763', badges: [
+  User(name: 'tripl____', id: '169244081', badges: [
     UserBadge(badgeName: 'early_bird'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'paruna', id: '139425133', badges: [

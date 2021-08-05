@@ -351,7 +351,7 @@ var users = <User>[
     UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'tepidp', id: '426396338', badges: [
-    UserBadge(badgeName: 'patreon_tier3'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
 ];
 

@@ -359,6 +359,9 @@ var users = <User>[
   User(name: 'niisgo', id: '189274527', badges: [
     UserBadge(badgeName: 'patreon_tier2'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
+  User(name: 'nichtdanger', id: '132105919', badges: [
+    UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
 ];
 
 // // Future<List<Badge>> getBadges() async {

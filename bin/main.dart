@@ -374,9 +374,9 @@ var users = <User>[
   User(name: 'dennitzo2', id: '118273408', badges: [
     UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
-  // User(name: 'thebluewagon', id: '246092135', badges: [
-  //   UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
-  // ]),
+  User(name: 'thebluewagon', id: '246092135', badges: [
+    UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
   User(name: 'korrectionz', id: '236435474', badges: [
     UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),

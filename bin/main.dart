@@ -395,10 +395,13 @@ var users = <User>[
   User(name: 'xoosd', id: '424993941', badges: [
     UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
-  User(name: 'Firegeek22', id: '106145858', badges: [
+  User(name: 'firegeek22', id: '106145858', badges: [
     UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'darthnosam', id: '459526763', badges: [
+    UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
+  User(name: 'spicyville', id: '722745496', badges: [
     UserBadge(badgeName: 'patreon_tier1'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
 ];

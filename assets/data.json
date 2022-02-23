@@ -1216,7 +1216,7 @@
     },
     {
       "id": "106145858",
-      "name": "Firegeek22",
+      "name": "firegeek22",
       "badges": [
         {
           "badgeName": "patreon_tier1",
@@ -1229,6 +1229,18 @@
     {
       "id": "459526763",
       "name": "darthnosam",
+      "badges": [
+        {
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
+        }
+      ]
+    },
+    {
+      "id": "722745496",
+      "name": "spicyville",
       "badges": [
         {
           "badgeName": "patreon_tier1",

@@ -266,8 +266,10 @@ var users = <User>[
   User(name: 'mastertichus', id: '482897959', badges: [
     UserBadge(badgeName: 'early_bird'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
+  // getair_condtioned
   User(name: 'ecko_biggestfan', id: '246437104', badges: [
     UserBadge(badgeName: 'early_bird'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    UserBadge(badgeName: 'performance_artist'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
   User(name: 'gryyyfin', id: '92065767', badges: [
     UserBadge(badgeName: 'early_bird'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),

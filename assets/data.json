@@ -1483,6 +1483,30 @@
           "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
+    },
+    {
+      "id": "729692388",
+      "name": "deboratestefierro_megaugu",
+      "badges": [
+        {
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
+        }
+      ]
+    },
+    {
+      "id": "76597986",
+      "name": "sogeking22",
+      "badges": [
+        {
+          "badgeName": "patreon_tier1",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
+        }
+      ]
     }
   ]
 }

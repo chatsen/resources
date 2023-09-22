@@ -109,6 +109,13 @@ var badges = <Badge>[
     image: '$baseUrl/tier3a.gif',
     color: '777777',
   ),
+  Badge(
+    name: 'relaxo',
+    title: 'Money Waster Relaxo',
+    description: 'He got too much money, I think lol.',
+    image: '$baseUrl/relaxo.png',
+    color: '777777',
+  ),
 ];
 
 var users = <User>[
@@ -483,6 +490,9 @@ var users = <User>[
   ]),
   User(name: 'teknik_', id: '534490040', badges: [
     UserBadge(badgeName: 'performance_artist'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
+  User(name: 'retrorelaxo', id: '265557682', badges: [
+    UserBadge(badgeName: 'relaxo'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
 ];
 

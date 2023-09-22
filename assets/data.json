@@ -83,6 +83,13 @@
       "description": "?",
       "image": "https://raw.githubusercontent.com/chatsen/resources/master/assets/tier3a.gif",
       "color": "777777"
+    },
+    {
+      "name": "relaxo",
+      "title": "Money Waster Relaxo",
+      "description": "He got too much money, I think lol.",
+      "image": "https://raw.githubusercontent.com/chatsen/resources/master/assets/relaxo.png",
+      "color": "777777"
     }
   ],
   "users": [
@@ -182,6 +189,12 @@
         },
         {
           "badgeName": "test_animated",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
+        },
+        {
+          "badgeName": "relaxo",
           "acquiredAt": "1970-01-01T01:00:00.000",
           "updatedAt": "1970-01-01T01:00:00.000",
           "expiresAt": "1970-01-01T01:00:00.000"
@@ -1550,6 +1563,18 @@
       "badges": [
         {
           "badgeName": "performance_artist",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
+        }
+      ]
+    },
+    {
+      "id": "265557682",
+      "name": "retrorelaxo",
+      "badges": [
+        {
+          "badgeName": "relaxo",
           "acquiredAt": "1970-01-01T01:00:00.000",
           "updatedAt": "1970-01-01T01:00:00.000",
           "expiresAt": "1970-01-01T01:00:00.000"

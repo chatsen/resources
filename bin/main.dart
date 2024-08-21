@@ -501,7 +501,7 @@ var users = <User>[
   User(name: 'retrorelaxo', id: '265557682', badges: [
     UserBadge(badgeName: 'relaxo'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
-  User(name: 'chill', id: '0', badges: [
+  User(name: 'chill', id: '25858284', badges: [
     UserBadge(badgeName: 'chill'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
 ];

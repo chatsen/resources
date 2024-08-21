@@ -116,6 +116,13 @@ var badges = <Badge>[
     image: '$baseUrl/relaxo.png',
     color: '777777',
   ),
+  Badge(
+    name: 'chill',
+    title: 'Chatsen Patreon Tier 3 Custom Badge',
+    description: 'Custom Chatsen Supporter Badge',
+    image: '$baseUrl/chill_badge.png',
+    color: '777777',
+  ),
 ];
 
 var users = <User>[
@@ -493,6 +500,9 @@ var users = <User>[
   ]),
   User(name: 'retrorelaxo', id: '265557682', badges: [
     UserBadge(badgeName: 'relaxo'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+  ]),
+  User(name: 'chill', id: '0', badges: [
+    UserBadge(badgeName: 'chill'), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
   ]),
 ];
 

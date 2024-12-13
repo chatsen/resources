@@ -1581,30 +1581,6 @@
           "expiresAt": "1970-01-01T01:00:00.000"
         }
       ]
-    },
-    {
-      "id": "265557682",
-      "name": "retrorelaxo",
-      "badges": [
-        {
-          "badgeName": "relaxo",
-          "acquiredAt": "1970-01-01T01:00:00.000",
-          "updatedAt": "1970-01-01T01:00:00.000",
-          "expiresAt": "1970-01-01T01:00:00.000"
-        }
-      ]
-    },
-    {
-      "id": "25858284",
-      "name": "chill",
-      "badges": [
-        {
-          "badgeName": "chill",
-          "acquiredAt": "1970-01-01T01:00:00.000",
-          "updatedAt": "1970-01-01T01:00:00.000",
-          "expiresAt": "1970-01-01T01:00:00.000"
-        }
-      ]
     }
   ]
 }

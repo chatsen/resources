@@ -125,6 +125,13 @@ var badges = <Badge>[
     image: '$baseUrl/chill_badge.png',
     color: '777777',
   ),
+  Badge(
+    name: 'custombadge1',
+    title: 'Chatsen Custom Badge',
+    description: 'Custom Chatsen Supporter Badge',
+    image: '$baseUrl/custombadge1.png',
+    color: '777777',
+  ),
 ];
 
 var users = <User>[
@@ -1214,7 +1221,7 @@ var users = <User>[
     id: '231919847',
     badges: [
       UserBadge(
-        badgeName: 'patreon_tier1',
+        badgeName: 'custombadge1',
       ), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     ],
   ),

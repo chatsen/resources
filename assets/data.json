@@ -97,6 +97,13 @@
       "description": "Custom Chatsen Supporter Badge",
       "image": "https://raw.githubusercontent.com/chatsen/resources/master/assets/chill_badge.png",
       "color": "777777"
+    },
+    {
+      "name": "custombadge1",
+      "title": "Chatsen Custom Badge",
+      "description": "Custom Chatsen Supporter Badge",
+      "image": "https://raw.githubusercontent.com/chatsen/resources/master/assets/custombadge1.png",
+      "color": "777777"
     }
   ],
   "users": [
@@ -208,6 +215,12 @@
         },
         {
           "badgeName": "chill",
+          "acquiredAt": "1970-01-01T01:00:00.000",
+          "updatedAt": "1970-01-01T01:00:00.000",
+          "expiresAt": "1970-01-01T01:00:00.000"
+        },
+        {
+          "badgeName": "custombadge1",
           "acquiredAt": "1970-01-01T01:00:00.000",
           "updatedAt": "1970-01-01T01:00:00.000",
           "expiresAt": "1970-01-01T01:00:00.000"
@@ -1623,7 +1636,7 @@
       "name": "MoritzPlays",
       "badges": [
         {
-          "badgeName": "patreon_tier1",
+          "badgeName": "custombadge1",
           "acquiredAt": "1970-01-01T01:00:00.000",
           "updatedAt": "1970-01-01T01:00:00.000",
           "expiresAt": "1970-01-01T01:00:00.000"

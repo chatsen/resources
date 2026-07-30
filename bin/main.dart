@@ -1225,6 +1225,24 @@ var users = <User>[
       ), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     ],
   ),
+  User(
+    name: 'offwhiteairforc3',
+    id: '445439155',
+    badges: [
+      UserBadge(
+        badgeName: 'patreon_tier1',
+      ), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    ],
+  ),
+  User(
+    name: '0',
+    id: '1046855565',
+    badges: [
+      UserBadge(
+        badgeName: 'patreon_tier1',
+      ), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
+    ],
+  ),
 ];
 
 // // Future<List<Badge>> getBadges() async {

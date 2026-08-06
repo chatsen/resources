@@ -22,8 +22,7 @@ class GQL {
   }
 }
 
-const baseUrl =
-    'https://raw.githubusercontent.com/chatsen/resources/master/assets'; //'https://cdn.jsdelivr.net/gh/chatsen/resources/assets';
+const baseUrl = 'https://raw.githubusercontent.com/chatsen/resources/master/assets'; //'https://cdn.jsdelivr.net/gh/chatsen/resources/assets';
 
 var badges = <Badge>[
   Badge(
@@ -36,8 +35,7 @@ var badges = <Badge>[
   Badge(
     name: 'early_supporter',
     title: 'Chatsen Early Supporter',
-    description:
-        'Legends that supported the project during it\'s early development',
+    description: 'Legends that supported the project during it\'s early development',
     image: '$baseUrl/early_supporter.png',
     color: '777777',
   ),
@@ -130,6 +128,13 @@ var badges = <Badge>[
     title: 'Chatsen Custom Badge',
     description: 'Custom Chatsen Supporter Badge',
     image: '$baseUrl/custombadge1.png',
+    color: '777777',
+  ),
+  Badge(
+    name: 'custombadge2',
+    title: 'Chatsen Custom Badge',
+    description: 'Custom Chatsen Supporter Badge',
+    image: '$baseUrl/dayyakav.png',
     color: '777777',
   ),
 ];
@@ -1239,7 +1244,7 @@ var users = <User>[
     id: '1046855565',
     badges: [
       UserBadge(
-        badgeName: 'patreon_tier1',
+        badgeName: 'custombadge2',
       ), // , acquiredAt: DateTime.now(), updatedAt: DateTime.now()),
     ],
   ),
